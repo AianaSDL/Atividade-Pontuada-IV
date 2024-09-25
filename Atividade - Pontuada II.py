@@ -3,7 +3,7 @@ os.system("cls | clear")
 
 print("= CARDÁPIO DO DIA =")
 
-codigo_salvo = int(input(""""
+prato = print(""""
     código = 123 - Morango
     código = 244 - Chololate
     código = 357 - Leite Ninho
